@@ -1,0 +1,323 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+/*#section-section-mobile-optimization-zakazat {*/
+#section-mobile-optimization-zakazat {
+    height: 450px;
+    position: relative;
+    overflow: hidden;
+}
+
+#section-add-love {
+ height: 450px;
+    position: relative;
+    overflow: hidden;
+}
+#add-love-bottom{
+position: absolute; bottom: 0%; right:0; left:0; margin: 0; 
+background: rgba(0,0,0,0.5);
+    padding: 30px 0;
+/*margin-top: 25%;/*350px;*/
+/*height: 30%; /*150px;*/
+}
+
+#add-love-bottom h2 {
+	
+	   font-family: RobotoRegular;
+	font-size: 30px;	
+	color: #fff;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+section.hero {
+    height: 700px;
+}
+
+.section-bg {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    bottom: 0;
+  
+    background-repeat: no-repeat;
+   background-size: 100%;
+}
+
+.bg-sky {
+    background-image: url('../images/sky.jpg');
+}
+
+.bg-add-love {
+    background-image: url('../images/Rectangle-7.jpg');
+	
+ top: -36%;
+
+}
+
+.bg-mobile-optimization-zakazat {
+   background: url("../images/Rectangle-181.jpg") no-repeat ;
+background-size: 100%;
+top: -50%;
+
+}
+
+@media only screen and (min-width:1200px) and (max-width:1280px){
+	.bg-mobile-optimization-zakazat {
+   background: url("../images/Rectangle-181.jpg") no-repeat ;
+background-size: 100%;
+top: -40%;
+
+}
+.bg-add-love {
+    
+	
+ top: -30%;
+
+}
+}
+
+/*@media only screen and (min-width:1200px) and (max-width:1300px){
+	.bg-mobile-optimization-zakazat {
+   background: url("../images/Rectangle-181.jpg") no-repeat ;
+background-size: 100%;
+top: -40%;
+
+}
+#add-love div{
+	
+    bottom: 16%;
+
+}
+}*/
+
+@media only screen and (min-width:992px) and (max-width:1199px){
+	.bg-mobile-optimization-zakazat {
+   
+top: -50%;
+
+}
+#mobile-optimization-zakazat h2 {
+    margin-top: 100px;
+}
+#section-mobile-optimization-zakazat {
+    height: 370px;
+}
+#section-add-love {
+    height: 400px;
+
+}
+
+}
+
+@media only screen and (min-width:992px) and (max-width:1095px){
+#section-add-love {
+    height: 350px;
+
+}
+}
+
+@media only screen and (min-width:768px) and (max-width:991px){
+	.section-bg{
+		/*background: url("../images/Rectangle-181.jpg") no-repeat ;
+		background-size: cover;*/
+	}
+	#mobile-optimization-zakazat h2 {
+    margin-top: 70px;
+	    font-size: 24px;
+}
+#mobile-optimization-zakazat button{
+	margin-top: 30px;
+	font-size: 16px;
+}
+.bg-mobile-optimization-zakazat {
+   
+top: -60%;
+
+}	
+#section-mobile-optimization-zakazat {
+    height: 300px;
+}
+
+
+#section-add-love {
+    height: 300px;
+
+}
+
+.bg-add-love{
+	top: -37%;
+}
+#add-love-bottom{
+
+    padding: 20px 0;
+
+}
+
+#add-love-bottom h2 {
+	font-size: 24px;
+}
+}
+
+@media only screen and  (max-width:767px){
+	#mobile-optimization-zakazat h2 {
+    margin-top: 50px;
+	    font-size: 24px;
+}
+#mobile-optimization-zakazat button{
+	margin-top: 30px;
+	font-size: 16px;
+}
+.bg-mobile-optimization-zakazat {
+   
+top: -50%;
+
+}
+.bg-add-love{
+	top: -26%;
+}	
+#section-mobile-optimization-zakazat {
+    height: 250px;
+}
+#section-add-love {
+    height: 300px;
+
+}
+#add-love-bottom{
+
+    padding: 10px 0;
+
+}
+
+#add-love-bottom h2 {
+	font-size: 18px;
+}
+}
+@media only screen and  (max-width:767px){
+	.bg-add-love{
+	top: -17%;
+}
+}
+@media only screen and  (min-width:610px) and (max-width:767px){
+#mobile-optimization-zakazat button {
+    margin-top: 10px;
+    font-size: 14px;
+}
+#mobile-optimization-zakazat h2 {
+    margin-top: 50px;
+    font-size: 16px;
+}
+.bg-mobile-optimization-zakazat {
+   
+top: -50%;
+
+}
+#section-mobile-optimization-zakazat {
+    height: 250px;
+}
+#section-add-love {
+    height: 220px;
+
+}
+.bg-add-love{
+	top: -35%;
+}
+.dash_title {
+   
+    font-size: 16px;
+}
+}
+
+@media only screen and (min-width:450px) and  (max-width:609px){
+	
+	
+	#pos-blue-block{
+		width: 290px;
+	}
+	#pos-blue-block p{
+		font-size: 12px;
+		}
+		#add-love-bottom h2 {
+    font-size: 14px;
+}
+#section-mobile-optimization-zakazat {
+    height: 170px;
+}
+#section-add-love {
+    height: 170px;
+
+}
+.bg-add-love{
+	top: -45%;
+}
+.bg-mobile-optimization-zakazat {
+   
+top: -60%;
+
+}
+#mobile-optimization-zakazat h2 {
+    margin-top: 30px;
+    font-size: 16px;
+}
+#mobile-optimization-zakazat button{
+	margin-top: 15px;
+    font-size: 13px;
+}
+#countdown_dashboard .digit, #countdown_dashboard_3 .digit{
+	font-size: 25px;
+}
+.dash_title {
+   
+    font-size: 16px;
+}
+}
+
+.bg-sunset {
+   background: url("../images/Rectangle-92.jpg") no-repeat; /*center center no-repeat;
+	background-size: cover;*/
+}
+
+
+@media only screen and (min-width:433px) and  (max-width:609px){
+#countdown_dashboard_2 .digit{
+		font-size: 30px;
+		line-height: 50px;
+		height: 50px;
+	}
+	.dash_title {
+    font-size: 14px;
+	}
+}
+/*.abs-content-middle {
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
+    padding: 1em;
+    margin: auto;
+    width: 300px;
+    text-align: center;
+    background: rgba(0,0,0,0.25);
+    color: white;
+}
+
+
+.parallax-bg {
+
+}*/
+
+/*.spacer {
+    text-align: center;
+}
+
+.spacer-lg {
+    height: 500px;
+}*/

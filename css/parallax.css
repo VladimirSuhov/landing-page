@@ -1,0 +1,60 @@
+
+#home { 
+	
+	background: url("../images/Rectangle-7.jpg");
+	background-attachment: fixed;
+	background-origin: initial;
+	background-clip: initial;
+	background-size: 100%;
+	background-repeat:no-repeat;
+	background-position:100% 0; 
+	position:relative;
+	min-height:465px;
+}
+ 
+/* #add-love{
+	 padding: 50px;
+	 background: rgba(0,0,0,0.5);
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	left: 0;
+ }*/
+ 
+ 
+#about { 
+	
+	background: url("../images/about.jpg");
+	background-attachment: fixed;
+	background-origin: initial;
+	background-clip: initial;
+	background-size: cover;
+	background-repeat:no-repeat;
+	background-position:100% 0; 
+	position:relative;
+	min-height:1080px;
+}
+#blog { 
+	
+	background: url("../images/blog.jpg");
+	background-attachment: fixed;
+	background-origin: initial;
+	background-clip: initial;
+	background-size: cover;
+	background-repeat:no-repeat;
+	background-position:100% 0; 
+	position:relative;
+	min-height:1080px;
+}
+#contact { 
+	
+	background: url("../images/contact.jpg");
+	background-attachment: fixed;
+	background-origin: initial;
+	background-clip: initial;
+	background-size: cover;
+	background-repeat:no-repeat;
+	background-position:100% 0; 
+	position:relative;
+	min-height:1080px;
+}
